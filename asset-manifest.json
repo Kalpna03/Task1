@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalpna03/Task1/static/css/main.e6c13ad2.css",
+    "main.js": "/Kalpna03/Task1/static/js/main.d441c50f.js",
+    "static/js/488.5dc00adb.chunk.js": "/Kalpna03/Task1/static/js/488.5dc00adb.chunk.js",
+    "index.html": "/Kalpna03/Task1/index.html",
+    "main.e6c13ad2.css.map": "/Kalpna03/Task1/static/css/main.e6c13ad2.css.map",
+    "main.d441c50f.js.map": "/Kalpna03/Task1/static/js/main.d441c50f.js.map",
+    "488.5dc00adb.chunk.js.map": "/Kalpna03/Task1/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d441c50f.js"
+  ]
+}

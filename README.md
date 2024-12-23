@@ -76,19 +76,20 @@ This will start the frontend React app at http://localhost:3000.
       npm run build
       npm run deploy
 
-##🚀 Technologies Used
-React: For building the user interface.
-Express: For creating the backend API.
-CORS: For enabling cross-origin requests from the frontend to the backend.
-npm: For managing the project dependencies.
+ ---
+## 🚀 Technologies Used
+   React: For building the user interface.
+   Express: For creating the backend API.
+   CORS: For enabling cross-origin requests from the frontend to the backend.
+   npm: For managing the project dependencies.
+ 
 
 
 
 
 
 
-
-##📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 

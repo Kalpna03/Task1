@@ -1,6 +1,11 @@
 Candidate List Viewer
 
 
+
+
+
+
+
 A simple React application that allows users to view a list of candidates, filter them by name or skills, and sort them by years of experience. The data is fetched from a backend API.
 
 Features
